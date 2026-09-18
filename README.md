@@ -4,13 +4,6 @@ A full-stack **Zerodha-inspired stock trading platform** built to demonstrate mo
 
 > **Disclaimer:** This project is created for educational and portfolio purposes. It is not affiliated with or endorsed by Zerodha.
 
-## 🌐 Live Demo
-
-**Frontend:** Add your deployed frontend URL here
-
-**Dashboard:** Add your deployed dashboard URL here
-
-**Backend API:** Add your deployed backend URL here
 
 ---
 
