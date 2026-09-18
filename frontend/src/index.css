@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #fff;
+  color: #424242;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: #387ed1; }
+
+.navbar .nav-link { color: #424242; }
+.navbar .nav-link:hover { color: #387ed1; }
+
+main { min-height: 65vh; }
+
+.card { border-radius: 16px; }
+
+img { max-width: 100%; }
+
+@media (max-width: 768px) {
+  .navbar .container > .w-100 { order: 3; }
+}

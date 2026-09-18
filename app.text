@@ -1,0 +1,57 @@
+frontend
+home -> navbar
+import reportWebVitals from "./reportWebVitals";
+
+
+
+
+
+
+
+backend 
+npm init
+package.json -> test replace start -> "nodemon index.js"
+
+npm i -D nodemon
+-> package-lock.json
+->package.json
+
+npm i express
+npm i express body-parser cors dotenv mongoose passport passport-local-mongoose
+
+index.js
+express setup or connection
+.env -> file suppose hidden file
+
+
+<password removed>
+
+
+bootstrap -> website is basically libary avaiale code
+
+
+
+
+
+
+install npm router
+npm i react-router-dom
+
+
+
+
+babluranjan807_db_user
+
+<password removed>
+
+
+thunder client use data store mangodb 
+
+mongodb+srv://USERNAME:PASSWORD@CLUSTER.mongodb.net/zerodha
+
+
+frontend package axios
+
+dashboard -> npm i react-chartjs-2 chart.js
+
+deployment -> aws ,  free use - render, netlify
